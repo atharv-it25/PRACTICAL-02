@@ -1,2 +1,2 @@
-# WDL-PRACTICAL
-Codes of all 13 Practicals.
+# PRACTICAL-02
+WDL-02
