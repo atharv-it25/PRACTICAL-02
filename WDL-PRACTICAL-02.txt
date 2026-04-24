@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title> Practical2 </title>
+</head>
+<body>
+    <h1> IT25011 </h1>
+    <h2><i> Atharv Kalambe </i></h2>
+    <p>
+        My name is <b> Atharv Kalambe </b> from <u> Nagpur</u>.<br>
+        <i>Currently, I am pursuing B.Tech at SB Jain Institute of Technology.<br>
+        Along with my college studies, I focus on self-improvement and learning new skills.</i>
+    </p>
+    <h2 align="center">
+        <b><u><i>Thank You</i></u></b>
+    </h2>
+</body>
+</html>
